@@ -37,9 +37,9 @@ Explanation:
 Additional Information
 - Save HTML (Optional): Uncomment the provided lines to save the HTML content to a file for inspection
 
-Contributing:
-Feel free to contribute to this project by submitting issues or pull requests. For major changes, please open an issue first to discuss what you would like to change.
+Contributing
+- Feel free to contribute to this project by submitting issues or pull requests. For major changes, please open an issue first to discuss what you would like to change.
 
-License.
-This project is licensed under the MIT License - see the LICENSE file for details.
+License
+- This project is licensed under the MIT License - see the LICENSE file for details.
 
