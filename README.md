@@ -1,5 +1,6 @@
 YouTube Shorts Views Finder
-This script fetches and extracts the view count of a YouTube Shorts video from its URL using web scraping techniques. It utilizes the requests library to fetch the raw HTML content of the page and BeautifulSoup for parsing the HTML. A regular expression is used to find the view count pattern in the parsed HTML.
+
+Even though it was designed for Youtube Shorts, this script fetches and extracts the view count of a YouTube Shorts or a Youtube Video from its URL using web scraping techniques. It utilizes the requests library to fetch the raw HTML content of the page and BeautifulSoup for parsing the HTML. A regular expression is used to find the view count pattern in the parsed HTML.
 
 Prerequisites
 Ensure you have at least Python 3.8 installed on your system. You will also need the following Python libraries:
